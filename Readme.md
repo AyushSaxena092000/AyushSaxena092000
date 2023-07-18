@@ -1,4 +1,4 @@
-![logo](https://github.com/AyushSaxena092000/AyushSaxena092000/blob/main/Screenshot from 2023-07-18 22-40-33.png)
+![logo](https://github.com/AyushSaxena092000/AyushSaxena092000/blob/main/linkdinbackground.png)
 <h1 align="center">Hi 👋, I'm Ayush Saxena</h1>
 <h3 align="center">A frontend developer with a knack for creating pixel-perfect and user-friendly experiences. 💻 When I'm not coding, you can find me juggling coffee mugs ☕️ and debugging life's mysteries. 🕵️‍♂️ With a mix of humor and seriousness, I'm on a mission to turn your wildest frontend dreams into reality.</h3>
 
